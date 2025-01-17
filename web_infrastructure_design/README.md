@@ -30,7 +30,7 @@ Downtime when maintenance needed (like deploying new code web server needs to be
 Cannot scale if too much incoming traffic
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 
-----------------
+---
 
 # 2. Secured and monitored web infrastructure
 
@@ -55,7 +55,7 @@ Why having only one MySQL server capable of accepting writes is an issue
 Why having servers with all the same components (database, web server and application server) might be a problem
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 
--------------
+---
 
 #  3. Scale up
 
